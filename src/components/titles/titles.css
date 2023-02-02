@@ -1,0 +1,11 @@
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+.section-title,
+.subsection-title {
+  margin: 10px 0;
+  font-weight: 500;
+}
