@@ -27,7 +27,7 @@ const series = [
     creator: 'Matthew Weiner',
     year: 2007,
     poster:
-      'https://pics.filmaffinity.com/Mad_Men_Serie_de_TV-351490728-large.jpg',
+      'https://fusion.molotov.tv/arts/i/446x588/Ch8SHQoUEUDY5p4ZFDPwiKwGOPO3reHZ91ASA2pwZxgBCh8IARIbChTWGWsegBC8LqO8eNhh_xWDeEhIcRIDcG5n/jpg',
     watched: true,
     score: 5,
     emmies: 116,
