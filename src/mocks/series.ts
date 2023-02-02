@@ -1,4 +1,6 @@
-const series = [
+import { FilmStructure } from '../models/film';
+
+export const SERIES: FilmStructure[] = [
   {
     id: 1,
     name: 'The Sopranos',
