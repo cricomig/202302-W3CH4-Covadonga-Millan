@@ -1,4 +1,4 @@
-import { Component } from '../component';
+import { Component } from '../component/component';
 import './header.css';
 
 export class Header extends Component {
